@@ -6,8 +6,26 @@
     <description>Recent content on 이어드림스쿨 기술 블로그</description>
     <generator>Hugo</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Tue, 26 May 2026 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 21:45:00 +0900</lastBuildDate>
     <atom:link href="https://yundimin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo로 기술 블로그를 운영하는 방법</title>
+      <link>https://yundimin.github.io/posts/hugo-blog-workflow/</link>
+      <pubDate>Tue, 26 May 2026 21:45:00 +0900</pubDate>
+      <guid>https://yundimin.github.io/posts/hugo-blog-workflow/</guid>
+      <description>&lt;p&gt;이 블로그는 Hugo, PaperMod, GitHub Pages를 사용해서 운영한다. 글은 Markdown으로 작성하고, Hugo가 정적 HTML 파일로 변환한 뒤 GitHub Pages가 그 결과물을 웹사이트로 보여주는 방식이다.&lt;/p&gt;
+&lt;h2 id=&#34;hugo는-무엇인가&#34;&gt;Hugo는 무엇인가&lt;/h2&gt;
+&lt;p&gt;Hugo는 정적 사이트 생성기다. 서버에서 매번 페이지를 만드는 대신, 미리 HTML 파일을 만들어 둔다. 그래서 블로그처럼 글 중심의 사이트를 빠르고 단순하게 운영하기 좋다.&lt;/p&gt;
+&lt;p&gt;이 블로그에서는 역할이 나뉘어 있다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;jimin-blog&lt;/code&gt;: 글, 설정, 테마가 들어 있는 Hugo 소스 저장소&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Yundimin.github.io&lt;/code&gt;: Hugo가 만든 HTML 결과물을 배포하는 GitHub Pages 저장소&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;themes/PaperMod&lt;/code&gt;: 블로그 디자인을 담당하는 PaperMod 테마 submodule&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;public&lt;/code&gt;: 배포 저장소를 연결한 submodule&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;새-글-작성하기&#34;&gt;새 글 작성하기&lt;/h2&gt;
+&lt;p&gt;새 글은 &lt;code&gt;content/posts&lt;/code&gt; 아래에 Markdown 파일로 만든다.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>이어드림스쿨 기술 블로그를 시작합니다</title>
       <link>https://yundimin.github.io/posts/welcome/</link>

@@ -2,25 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yundimin.github.io/tags/blog/</loc>
-    <lastmod>2026-05-26T00:00:00+09:00</lastmod>
+    <loc>https://yundimin.github.io/categories/blog/</loc>
+    <lastmod>2026-05-26T21:45:00+09:00</lastmod>
   </url><url>
     <loc>https://yundimin.github.io/categories/</loc>
+    <lastmod>2026-05-26T21:45:00+09:00</lastmod>
+  </url><url>
+    <loc>https://yundimin.github.io/tags/github-pages/</loc>
+    <lastmod>2026-05-26T21:45:00+09:00</lastmod>
+  </url><url>
+    <loc>https://yundimin.github.io/tags/hugo/</loc>
+    <lastmod>2026-05-26T21:45:00+09:00</lastmod>
+  </url><url>
+    <loc>https://yundimin.github.io/posts/hugo-blog-workflow/</loc>
+    <lastmod>2026-05-26T21:45:00+09:00</lastmod>
+  </url><url>
+    <loc>https://yundimin.github.io/tags/papermod/</loc>
+    <lastmod>2026-05-26T21:45:00+09:00</lastmod>
+  </url><url>
+    <loc>https://yundimin.github.io/posts/</loc>
+    <lastmod>2026-05-26T21:45:00+09:00</lastmod>
+  </url><url>
+    <loc>https://yundimin.github.io/tags/</loc>
+    <lastmod>2026-05-26T21:45:00+09:00</lastmod>
+  </url><url>
+    <loc>https://yundimin.github.io/</loc>
+    <lastmod>2026-05-26T21:45:00+09:00</lastmod>
+  </url><url>
+    <loc>https://yundimin.github.io/tags/blog/</loc>
     <lastmod>2026-05-26T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://yundimin.github.io/categories/notice/</loc>
     <lastmod>2026-05-26T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://yundimin.github.io/posts/</loc>
-    <lastmod>2026-05-26T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://yundimin.github.io/tags/</loc>
-    <lastmod>2026-05-26T00:00:00+09:00</lastmod>
-  </url><url>
     <loc>https://yundimin.github.io/tags/yeardream/</loc>
-    <lastmod>2026-05-26T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://yundimin.github.io/</loc>
     <lastmod>2026-05-26T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://yundimin.github.io/posts/welcome/</loc>
