@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Notice on 이어드림스쿨 기술 블로그</title>
+    <link>https://yundimin.github.io/categories/notice/</link>
+    <description>Recent content in Notice on 이어드림스쿨 기술 블로그</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Tue, 26 May 2026 00:00:00 +0900</lastBuildDate>
+    <atom:link href="https://yundimin.github.io/categories/notice/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>이어드림스쿨 기술 블로그를 시작합니다</title>
+      <link>https://yundimin.github.io/posts/welcome/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0900</pubDate>
+      <guid>https://yundimin.github.io/posts/welcome/</guid>
+      <description>&lt;p&gt;이어드림스쿨에서 배우고 만드는 과정을 기록하기 위한 기술 블로그입니다.&lt;/p&gt;
+&lt;p&gt;앞으로 학습 내용, 프로젝트 진행 과정, 문제 해결 경험을 정리합니다.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
