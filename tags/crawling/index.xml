@@ -6,8 +6,26 @@
     <description>Recent content in Crawling on 이어드림스쿨 기술 블로그</description>
     <generator>Hugo</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Wed, 27 May 2026 18:54:43 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 18:59:53 +0900</lastBuildDate>
     <atom:link href="https://yundimin.github.io/tags/crawling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>책 정보 수집 2: Tipping the Velvet</title>
+      <link>https://yundimin.github.io/posts/2026-05-27-book-02-tipping-the-velvet/</link>
+      <pubDate>Wed, 27 May 2026 18:59:53 +0900</pubDate>
+      <guid>https://yundimin.github.io/posts/2026-05-27-book-02-tipping-the-velvet/</guid>
+      <description>&lt;p&gt;Books to Scrape에서 크롤링한 2번째 책 정보입니다.&lt;/p&gt;
+&lt;h2 id=&#34;책-정보&#34;&gt;책 정보&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;제목: Tipping the Velvet&lt;/li&gt;
+&lt;li&gt;가격: £53.74&lt;/li&gt;
+&lt;li&gt;평점: 1 / 5&lt;/li&gt;
+&lt;li&gt;재고: In stock (20 available)&lt;/li&gt;
+&lt;li&gt;UPC: 90fa61229261140a&lt;/li&gt;
+&lt;li&gt;출처: &lt;a href=&#34;https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html&#34;&gt;https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;설명&#34;&gt;설명&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Erotic and absorbing&amp;hellip;Written with starling power.&amp;rdquo;&amp;ndash;&amp;ldquo;The New York Times Book Review &amp;quot; Nan King, an oyster girl, is captivated by the music hall phenomenon Kitty Butler, a male impersonator extraordinaire treading the boards in Canterbury. Through a friend at the box office, Nan manages to visit all her shows and finally meet her heroine. Soon after, she becomes Kitty&amp;rsquo;s &amp;ldquo;Erotic and absorbing&amp;hellip;Written with starling power.&amp;rdquo;&amp;ndash;&amp;ldquo;The New York Times Book Review &amp;quot; Nan King, an oyster girl, is captivated by the music hall phenomenon Kitty Butler, a male impersonator extraordinaire treading the boards in Canterbury. Through a friend at the box office, Nan manages to visit all her shows and finally&amp;hellip;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>책 정보 수집 1: A Light in the Attic</title>
       <link>https://yundimin.github.io/posts/2026-05-27-book-01-a-light-in-the-attic/</link>
