@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Books-to-Scrape on 이어드림스쿨 기술 블로그</title>
+    <link>https://yundimin.github.io/tags/books-to-scrape/</link>
+    <description>Recent content in Books-to-Scrape on 이어드림스쿨 기술 블로그</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Wed, 27 May 2026 18:54:43 +0900</lastBuildDate>
+    <atom:link href="https://yundimin.github.io/tags/books-to-scrape/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>책 정보 수집 1: A Light in the Attic</title>
+      <link>https://yundimin.github.io/posts/2026-05-27-book-01-a-light-in-the-attic/</link>
+      <pubDate>Wed, 27 May 2026 18:54:43 +0900</pubDate>
+      <guid>https://yundimin.github.io/posts/2026-05-27-book-01-a-light-in-the-attic/</guid>
+      <description>&lt;p&gt;Books to Scrape에서 크롤링한 1번째 책 정보입니다.&lt;/p&gt;
+&lt;h2 id=&#34;책-정보&#34;&gt;책 정보&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;제목: A Light in the Attic&lt;/li&gt;
+&lt;li&gt;가격: £51.77&lt;/li&gt;
+&lt;li&gt;평점: 3 / 5&lt;/li&gt;
+&lt;li&gt;재고: In stock (22 available)&lt;/li&gt;
+&lt;li&gt;UPC: a897fe39b1053632&lt;/li&gt;
+&lt;li&gt;출처: &lt;a href=&#34;https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html&#34;&gt;https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;설명&#34;&gt;설명&lt;/h2&gt;
+&lt;p&gt;It&amp;rsquo;s hard to imagine a world without A Light in the Attic. This now-classic collection of poetry and drawings from Shel Silverstein celebrates its 20th anniversary with this special edition. Silverstein&amp;rsquo;s humorous and creative verse can amuse the dowdiest of readers. Lemon-faced adults and fidgety kids sit still and read these rhythmic words and laugh and smile and love th It&amp;rsquo;s hard to imagine a world without A Light in the Attic. This now-classic collection of poetry and drawings from Shel Silverstein celebrates its 20th anniversary with this special edition. Silverstein&amp;rsquo;s humorous and creative verse can amuse the dowdiest of readers. Lemon-faced adults and fidgety kids sit still and read&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
